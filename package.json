@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "azure-openai": "^0.9.1"
+  }
+}

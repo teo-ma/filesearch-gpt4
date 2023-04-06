@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/6fa8eb6f-e2f1-493f-b01d-d47253728c9f/resourceGroups/myResourceGroup11102/providers/Microsoft.Web/sites/gpschinacsa-fileqa",
+    "appService.deploySubpath": "."
+}
